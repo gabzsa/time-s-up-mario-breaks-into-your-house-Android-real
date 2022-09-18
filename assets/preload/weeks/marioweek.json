@@ -1,0 +1,41 @@
+{
+	"storyName": "time's up",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "liver",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"liver",
+			"liver",
+			[
+				255,
+				45,
+				50
+			]
+		],
+		[
+			"end",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"nothing1",
+		"nothing2",
+		"nothing3"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "liver"
+}
